@@ -1,0 +1,58 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
+
+body {
+    text-align: center;
+}
+
+.Addition {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.Addition img {
+    width: 100%;
+}
+
+.Addition hr {
+    width: 230px;
+}
+
+.Addition h5,
+.Addition p {
+    margin-left: 20px;
+}
+
+
+.Competition {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.Competition i {
+    float: right;
+}
